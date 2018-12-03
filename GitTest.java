@@ -13,4 +13,8 @@ public class GitTest{
 	public String toString(){
 		return a;
 	}
+
+	public void setString(){
+
+	}
 }
